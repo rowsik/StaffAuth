@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "913307086467",
+    "firebase_url": "https://staffauth-7a043.firebaseio.com",
+    "project_id": "staffauth-7a043",
+    "storage_bucket": "staffauth-7a043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913307086467:android:d6d0fce087fe8d56",
+        "android_client_info": {
+          "package_name": "com.example.android.staffauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913307086467-7vhifcg8iqsc841abjmcn6loiu62v48p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.staffauth",
+            "certificate_hash": "bf3e79d3b9535ae2e0b68b495aba63d6a8e9f707"
+          }
+        },
+        {
+          "client_id": "913307086467-d5nqf8ssh3q7148o236vsllcpc02kfku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMtakh7779vFrEaXdLcqRfulPIm4Oimc4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913307086467-d5nqf8ssh3q7148o236vsllcpc02kfku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
